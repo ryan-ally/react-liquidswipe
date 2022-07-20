@@ -15,7 +15,7 @@
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^1.2.32",
     "@fortawesome/free-solid-svg-icons": "^5.15.1",
-    "@fortawesome/react-fontawesome": "^0.1.14",
+    "@fortawesome/react-fontawesome": "^0.2.0",
     "@react-icons/all-files": "^4.1.0",
     "@theme-ui/typography": "^0.3.5",
     "gatsby": "^2.26.1",
